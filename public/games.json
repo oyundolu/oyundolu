@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Basketbol",
+    "slug": "basketbol",
+    "thumbnail": "/basketbol.jpg",
+    "embedUrl": "https://example.com/embed/basketbol"
+  },
+  {
+    "title": "Araba Yarışı",
+    "slug": "araba-yarisi",
+    "thumbnail": "/yariskapak.jpg",
+    "embedUrl": "https://example.com/embed/araba-yarisi"
+  }
+]
