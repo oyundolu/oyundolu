@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import GameCard from '../components/GameCard';
-import games from '../public/games.json';
+import games from '../data/games.json';
 
 export default function Home() {
   return (
